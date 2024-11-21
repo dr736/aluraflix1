@@ -1,3 +1,6 @@
+<head>
+    link red="stylesheed" href="styles.css"
+</head>
 <body>
 
 <header>ALURAFLIX</header>
